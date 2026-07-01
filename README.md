@@ -7,3 +7,5 @@ This repository is (I believe) just a "first test" to familiarize myself with al
 --- FUNCTIONS ---
 greet(name): Takes in a string and returns a string that is a simple greeting using the provided input.
 
+farewell(name): Takes in a string and returns a string that incorperates the inputted string as a goodbye message.
+
